@@ -1,5 +1,5 @@
 ============================================================
-  SISTEMA PETSHOP — Instruções de Uso (versão refatorada)
+  SISTEMA PETSHOP — Instruções de Uso 
 ============================================================
 
 COMO COMPILAR
@@ -14,7 +14,7 @@ COMO EXECUTAR (GUI)
   java -cp out PJBL2.PetShopGUI
 
 ============================================================
-  ABA 1 — CADASTRO  (fluxo natural)
+  ABA 1 — CADASTRO 
 ============================================================
 
   1. Preencha os dados do TUTOR (nome obrigatório, data obrigatória)
@@ -35,7 +35,7 @@ COMO EXECUTAR (GUI)
   • A exclusão pede confirmação antes de remover
 
 ============================================================
-  ABA 3 — GERENCIAR PETS  (funcionalidade nova)
+  ABA 3 — GERENCIAR PETS 
 ============================================================
 
   • Adicionar pet a tutor existente: informe o código do tutor
